@@ -2,7 +2,7 @@
 
 Display the code of characters to the right of cursor in status bar.
 
-![ status bar ](https://raw.githubusercontent.com/ka-ka-xyz/atom-charcode/master/images/image004.PNG)
+![ status bar ](https://raw.githubusercontent.com/ka-ka-xyz/atom-charcode/master/images/image001.PNG)
 
 "0x0020" means the character code of whitespace when file is encoded in UTF-8.
 
@@ -42,7 +42,7 @@ This package can't display End Of Line (EOL) code correctly due to
 
 ## Example
 
-![ whitespace ](https://raw.githubusercontent.com/ka-ka-xyz/atom-charcode/master/images/image001.PNG)
+![ whitespace ](https://raw.githubusercontent.com/ka-ka-xyz/atom-charcode/master/images/image002.PNG)
 
 Line No. 1 is separated by whitespace "0x0020(U+0020)".
 
