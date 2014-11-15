@@ -1,0 +1,14 @@
+{
+  "name": "atom-charcode",
+  "main": "./lib/atom-charcode",
+  "version": "0.0.1",
+  "description": "Display the code of charcter to the right of cursor in status bar.",
+  "repository": "https://github.com/ka-ka-xyz/atom-charcode",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.4"
+  }
+}
