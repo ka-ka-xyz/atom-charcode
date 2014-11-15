@@ -1,7 +1,7 @@
 {
   "name": "atom-charcode",
   "main": "./lib/atom-charcode",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Display the code of charcter to the right of cursor in status bar.",
   "repository": "https://github.com/ka-ka-xyz/atom-charcode",
   "license": "MIT",
