@@ -34,14 +34,17 @@ This package can't display End Of Line (EOL) code correctly due to
 ![ whitespace ](https://raw.githubusercontent.com/ka-ka-xyz/atom-charcode/master/images/image002.PNG)
 
 Line No. 1 is separated by whitespace "0x0020(U+0020)".
-  一行目は半角スペース"0x0020(U+0020)"で分割されています。
+
+一行目は半角スペース"0x0020(U+0020)"で分割されています。
 
 ![ no-break space ](https://raw.githubusercontent.com/ka-ka-xyz/atom-charcode/master/images/image003.PNG)
 
 Line No. 2 is separated by No-Break Space "0xC2A0(U+00A0)".
+
   二行目はノーブレークスペース"0xC2A0(U+00A0)"で分割されています。
 
 ![ IDEOGRAPHIC SPACE ](https://raw.githubusercontent.com/ka-ka-xyz/atom-charcode/master/images/image004.PNG)
 
 Line No. 3 is separated by IDEOGRAPHIC SPACE "0xE38080(U+3000)".
-  三行目は全角スペース"0xE38080(U+3000)"で分割されています。
+
+三行目は全角スペース"0xE38080(U+3000)"で分割されています。
