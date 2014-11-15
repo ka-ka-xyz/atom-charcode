@@ -2,15 +2,26 @@
 
 Display the code of characters to the right of cursor in status bar.
 
-'[${character code of current encoding type}(${Unicode Codepoint})]'
+![ status bar ](https://raw.githubusercontent.com/ka-ka-xyz/atom-charcode/master/images/image004.PNG)
+
+"0x0020" means the character code of whitespace when file is encoded in UTF-8.
+
+"(U+0020)" means the Unicode Codepoint.
+
+Unicode surrogate pair character supported.
 
 This package is tested in Windows 7 using Japanese popular encoding formats
   (UTF-8, UTF-16 BE/LE,SHIFT_JIS and EUCJP).
 
+
 ---------------------------------------
 カーソル右側の文字コードを以下の形式で表示します。
 
-'[${使用中の文字コード方式の文字コード}(${Unicodeコードポイント)}]'
+"0x0020" はUTF-8形式でエンコードされた場合の文字コードです。
+
+"(U+0020)" はユニコードコードポイントを示します。
+
+Unicodeサロゲートペア文字にも対応済みです。
 
 このパッケージはWindows7上で一般的な日本語エンコード形式(UTF-8,UTF-16 BE/LE,
   SHIFT_JIS and EUCJP)で動作確認を行っています。
