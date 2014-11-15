@@ -42,7 +42,7 @@ This package can't display End Of Line (EOL) code correctly due to
 
 ## Example
 
-![ whitespace ](https://raw.githubusercontent.com/ka-ka-xyz/atom-charcode/master/images/image002.PNG)
+![ whitespace ](https://raw.githubusercontent.com/ka-ka-xyz/atom-charcode/master/images/image001.PNG)
 
 Line No. 1 is separated by whitespace "0x0020(U+0020)".
 
