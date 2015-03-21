@@ -7,7 +7,7 @@ class AtomCharcodeView
     @element.classList.add("status-bar-atom-charcode","inline-block")
     #myself.element.textContent = " intializing (intializing)"
     atom.packages.once 'activated', ->
-      atom.workspaceView.statusBar?.appendLeft(myself.element)
+        document.querySelector("status-bar")?.appendLeft(myself.element)
 
 
     # Register command that toggles this view
