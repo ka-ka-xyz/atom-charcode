@@ -7,7 +7,8 @@ class AtomCharcodeView
     @element.classList.add("status-bar-atom-charcode","inline-block")
     #myself.element.textContent = " intializing (intializing)"
     atom.packages.once 'activated', ->
-        document.querySelector("status-bar")?.appendLeft(myself.element)
+        document.querySelector("status-bar")?.
+        addLeftTile(item: myself.element, priority: 1000)
 
 
     # Register command that toggles this view
